@@ -349,8 +349,8 @@ If you use Claude Swarm Coordinator in your research or projects, please cite:
 ```bibtex
 @software{claude_swarm_coordinator,
   title = {Claude Swarm Coordinator: A Framework for Multi-Agent Parallel Development},
-  author = {Claude Code Swarm Project},
+  author = {Robert Douglass},
   year = {2024},
-  url = {https://github.com/anthropics/claude-swarm-coordinator}
+  url = {https://github.com/robertDouglass/claude-swarm-coordinator}
 }
 ```
