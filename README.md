@@ -151,9 +151,9 @@ print(f"Estimated time: {summary['total_time']} minutes")
 ### Markdown Format
 
 ```markdown
-# Project Requirements
+# Project Requirements (this is a fake project)
 
-## User Authentication
+## User Authentication (example requirement)
 - User registration with email validation
 - JWT-based login system
 - Password reset functionality
@@ -162,9 +162,10 @@ print(f"Estimated time: {summary['total_time']} minutes")
 - RESTful user management
 - Data validation and error handling
 
-## Database
-- User model with proper relationships
-- Migration scripts
+## Your own requirements
+- Pink ponies
+- Brews coffee
+- etc.
 ```
 
 ### JSON Format
