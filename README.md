@@ -350,7 +350,7 @@ If you use Claude Swarm Coordinator in your research or projects, please cite:
 @software{claude_swarm_coordinator,
   title = {Claude Swarm Coordinator: A Framework for Multi-Agent Parallel Development},
   author = {Robert Douglass},
-  year = {2024},
+  year = {2025},
   url = {https://github.com/robertDouglass/claude-swarm-coordinator}
 }
 ```
